@@ -28,11 +28,11 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Kills"                 :"Zabójstwa",
 	"Deaths"                :"Zgony",
 	"KDR"                   :"KDR",
-	"Spectators:"           :"Oglądający",
+	"Spectators:"           :"Obserwatorzy",
 	"and more ..."          :"i więcej...",
 
 //TeamMenu.as
-	"Spectator":"Oglądający",
+	"Spectator":"Obserwatorzy",
 	"Auto-pick teams":"Automatycznie dobierane zespoły",
 
 //ShowGameMode.as //You can translate here any game mode names
@@ -113,7 +113,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 //ResearchGUI.as
 	"Click the items you vote to research!"                           :"Wybierz itemy, które można będzie budować!",
 	"Yellow paths show what will be researched when the match starts.":"Żółte ścieżki pokażą ci, co będzie możliwe do stworzenia po wystartowaniu meczu..",
-	"Red path items can only be bought for gold at trader."           :"Czerwone ścieżki pokażą ci itemy, które możesz kupić wyłącznie u handlarza.",
+	"Red path items can only be bought for gold at trader."           :"Czerwone ścieżki pokażą ci przedmioty, które możesz kupić wyłącznie za złoto u handlarza.",
 	"(available)"                                                     :"(dostępne)",
 	"(researching - {TIME}s)"                                         :"(Tworzenie - {TIME} sek.)",
 	"(click to vote)"                                                 :"(Kliknij, aby zagłosować)",
@@ -243,8 +243,8 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"WARMUP"                                   :"ROZGRZEWKA",
 	"KILLS: {CURRENT}/{LIMIT}"                 :"ZABÓJSTWA: {CURRENT}/{LIMIT}",
 	"SUDDEN DEATH"                             :"GRA DO OSTATNIEJ ŚMIERCI",
-	"In Queue to Respawn..."                   :"W kolejce do pojawienia się...",
-	"No Respawning - Wait for the Game to End.":"Brak możliwości pojawienia się - Poczekaj, aż gra się skończy.",
+	"In Queue to Respawn..."                   :"W kolejce do odrodzenia...",
+	"No Respawning - Wait for the Game to End.":"Brak możliwości odradzania się - Poczekaj do zakończenia gry.",
 
 //// RESUPPLIES ////
 //CTF_GiveSpawnItems.as
@@ -252,8 +252,8 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Go Fight"                                     :"Idź walczyć",
 	"Go Build"                                     :"Buduj",
 	"Prepare for Battle"                           :"Przygotuj się na walkę",
-	" seconds"                                     :"sekund.",
-	" second"                                      :"sekunda.",
+	" seconds"                                     :" sekund",
+	" second"                                      :" sekunda",
 
 //// RESPAWNING ////
 //CTF_Interface.as
@@ -261,12 +261,12 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 //TDM_Interface.as
 //Sandbox_Interface.as
 //CTF_PickSpawn.as
-	"Respawning in: {SEC}" :"Pojawisz się za: {SEC}",
+	"Respawning in: {SEC}" :"Odrodzisz się za: {SEC}",
 	"approximatively never":"w przybliżeniu nigdy",
-	"Pick spawn point"     :"Wybierz punkt pojawienia się",
-	"Spawn at {ITEM}"      :"Pojaw się w {ITEM}",
+	"Pick spawn point"     :"Wybierz punkt odrodzenia",
+	"Spawn at {ITEM}"      :"Odródź się w {ITEM}",
 	"respawn is contested" :"Respawn jest oblegany",
-	"No spawns available!" :"Brak dostępnych baz!",
+	"No spawns available!" :"Brak możliwości odrodzenia!",
 
 //WAR_Interface.as
 	"DEFEND THE HALL!"                           :"BROŃ BAZY!",
@@ -564,7 +564,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Quarters":"Loża",
 	"Storage":"Magazyn",
 	"Storage Cache":"Magazyn",
-	"Vehicle Shop":"Магазин осадных орудий",
+	"Vehicle Shop":"Sklep z machinami oblężniczymi",
 	"Drill":"Wiertło",
 	"Workshop":"Warsztat",
 	"Fireplace":"Ognisko",
@@ -729,12 +729,12 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Connecting to {IP}": "Dołaczanie do {IP}",
 	"Connection failed": "Dołączanie nie powiodło się",
 	"Please check the address again and make sure the server is running.": "Sprawdź adres jeszcze raz i sprawdź, czy serwer działa.",
-	"DISCONNECTED FROM SERVER": "Wyrzucono cię z serwera",
+	"DISCONNECTED FROM SERVER": "WYRZUCONO CIĘ Z SERWERA",
 
 ////GLOBAL MESSAGES////
 	"Match starts in {SEC}": "Mecz zaczyna się za {SEC}",
 	"Starting in... {SEC}s": "Początek gry za... {SEC}s",
-	"It's a tie!":"Ничья!",
+	"It's a tie!":"Remis!",
 	"Well done. Loading next map...":"dobra robota. Ładowanie kolejnej mapy...",
 	"You saved the princess!":"Uratowałeś księżniczkę!",
 	"The princess died!":"Księżniczka zginęła!",
@@ -786,7 +786,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"0%":"0%",
 	"100%":"100%",
 	"Refresh":"Odśwież",
-	"Non-Vanilla":"Nie-Modowany",
+	"Non-Vanilla":"Zmodyfikowany",
 	"Password ":"Hasło ",
 	"Game mode:":"Rodzaj gry:",
 	"HELPTEXT TAB":"HELPTEXT TAB",
@@ -812,13 +812,13 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Find Out More!":"Dowiedz się więcej!",
 	"Close":"Zamknij",
 //guiLogin.xml
-	"Username:":"Login:",
+	"Username:":"Nazwa:",
 	"Remember me":"Zapamiętaj mnie",
 	"Create Account":"Stwórz konto",
-	"Offline":"Offline",
+	"Offline":"Tryb Offline",
 	"Forgot?":"Zapomniałeś?",
 //guiMain.xml
-	"Solo":"Gra samemu",
+	"Solo":"Gra w pojedynkę",
 	"Multiplayer":"Gra wieloosobowa",
 	"Settings":"Ustawienia",
 	"How to video":"Jak zrobić video",
@@ -864,7 +864,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Female"                    :"Żeńskie",
 	"BUY {HEADS_PACK}"          :"KUP {HEADS_PACK}",
 	"Standard"                  :"Standardowe",
-	"Flags of The World"        :"Flagi świata",
+	"Flags of The World"        :"Flagi Świata",
 	"Head packs:"               :"Paczki głów:",
 	"Head:"                     :"Głowa:",
 	"Change keys:"              :"Zmień klawisze:",
@@ -948,9 +948,9 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Spectator Slots: {CURRENT} / {MAXIMUM} (FULL)": "Miejsca dla oglądających: {CURRENT} / {MAXIMUM} (FULL)",
 	"Spectators: {COUNT}":                           "Oglądający: {COUNT}",
 	"Map size: {DIMENSIONS} ({SIZE})":               "Wielkość mapy: {DIMENSIONS} ({SIZE})",
-	"SMALL":                                         "mała",
-	"MEDIUM":                                        "średnia",
-	"LARGE":                                         "duża",
+	"SMALL":                                         "MAŁA",
+	"MEDIUM":                                        "ŚREDNIA",
+	"LARGE":                                         "DUŻA",
 	"Ping: (Not Responding)":                        "Ping: (Brak odpowiedzi)",
 	"Ping: {TIME}ms ({DESCRIPTION})":                "{ing: {TIME}ms ({DESCRIPTION})",
 	"GREAT":                                         "Najlepszy",
