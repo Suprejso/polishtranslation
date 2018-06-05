@@ -14,6 +14,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 
 {
 //// SCOREBOARD ////
+	
 //ScoreboardCommon.as
 	"Match time: {TIME}": "Czas gry: {TIME}",
 	"h ": "godz. ",
@@ -128,6 +129,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 	"Tip: {TIP}": "Wskazówka: {TIP}",
 
 //// SOLO GAME MODES ////
+	
 //Tutorial01.as
 	"Walk & Jump $KEY_A$ $KEY_W$ $KEY_D$":"Idź i skocz\n\n$KEY_A$$KEY_W$$KEY_D$",
 	"$sign$Go to the right and\n\nbe sure to read these signs.":"$sign$Idź w prawą stronę\n\ni po drodze czytaj to, co jest napisane na tabliczkach, które mijasz.",
