@@ -22,7 +22,7 @@ KING ARTHUR'S GOLD TRANSLATION FILE
 
 //ScoreboardRender.as
 	"Players: {PLAYERCOUNT}":"Liczba graczy: {PLAYERCOUNT}",
-	"Player"                :"Gracz",
+	"Player"                :"Gracz1",
 	"Username"              :"Nazwa",
 	"Ping"                  :"Ping",
 	"Kills"                 :"Zabójstwa",
